@@ -1,0 +1,22 @@
+faq = {
+    "What is fintech?": "Fintech stands for financial technology and refers to the integration of technology into offerings by financial services companies.",
+    "How does fintech work?": "Fintech uses software, apps, and algorithms to improve and automate financial services.",
+    "Is fintech safe to use?": "Most fintech platforms use encryption, secure authentication, and comply with regulations to ensure user safety.",
+    "What are some examples of fintech?": "Examples include mobile banking apps, peer-to-peer payment platforms, robo-advisors, and cryptocurrency exchanges.",
+    "Can I invest using a fintech app?": "Yes, many fintech apps allow you to invest in stocks, ETFs, cryptocurrencies, and more.",
+    "How do I start using a fintech app?": "Download the app, register with your details, complete KYC, and link your bank account or card.",
+    "What is KYC in fintech?": "KYC stands for 'Know Your Customer' and involves verifying a user’s identity to prevent fraud.",
+    "Are digital wallets secure?": "Yes, reputable digital wallets use strong encryption and multi-factor authentication to protect your funds.",
+    "What is a robo-advisor?": "A robo-advisor is an AI-driven platform that provides automated, algorithm-based investment advice.",
+    "How do peer-to-peer payments work?": "P2P payment apps allow users to send money directly to another person’s account using mobile numbers or emails.",
+    "What are neobanks?": "Neobanks are digital-only banks that operate online without physical branches.",
+    "Can I take loans through fintech platforms?": "Yes, many fintech services offer personal, business, or micro-loans with faster approval processes.",
+    "What is blockchain’s role in fintech?": "Blockchain technology enables secure, transparent transactions in fintech, especially in cryptocurrencies and smart contracts.",
+    "How does BNPL (Buy Now Pay Later) work?": "BNPL lets you purchase items and pay in installments, often without interest if paid on time.",
+    "Is cryptocurrency part of fintech?": "Yes, cryptocurrencies and their trading platforms are key innovations within the fintech industry.",
+    "What is open banking?": "Open banking allows third-party developers to build apps and services around financial institutions using APIs.",
+    "What are fintech regulations?": "Fintech companies are subject to financial laws, including data protection, KYC, AML (anti-money laundering), and consumer rights regulations.",
+    "How does fintech help small businesses?": "Fintech provides faster loans, payment processing, accounting software, and financial management tools for SMEs.",
+    "What is the difference between traditional banking and fintech?": "Fintech offers faster, digital, and user-friendly services, while traditional banking is slower and branch-dependent.",
+    "How do I know if a fintech app is trustworthy?": "Check if it's regulated by financial authorities, has strong security features, and positive user reviews."
+}
