@@ -89,3 +89,7 @@ uvicorn==0.34.0
 yarl==1.18.3
 reportlab
 arxiv
+pytesseract==0.3.10
+opencv-python==4.8.0.74
+python-multipart==0.0.6
+
