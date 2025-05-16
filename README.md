@@ -10,10 +10,6 @@ An intelligent, agent-based chatbot designed to generate interactive responses b
 - **Interactive Frontend**: Simple interface for user interaction.
 - **Backend Logic**: Coordinates agents and handles requests efficiently.
 
-Output 
-
-![AI Chatbot Screenshot](./WhatsApp Image 2025-05-17 at 00.07.52.jpeg)
-
 ## Project Structure
 
 agentic-chatbot/
