@@ -12,7 +12,7 @@ An intelligent, agent-based chatbot designed to generate interactive responses b
 
 Output 
 
-![AI Chatbot Screenshot](./Screenshot%20(126).png)
+![AI Chatbot Screenshot](./WhatsApp Image 2025-05-17 at 00.07.52.jpeg)
 
 ## Project Structure
 
