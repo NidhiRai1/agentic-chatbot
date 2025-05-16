@@ -10,7 +10,7 @@ An intelligent, agent-based chatbot designed to generate interactive responses b
 - **Interactive Frontend**: Simple interface for user interaction.
 - **Backend Logic**: Coordinates agents and handles requests efficiently.
 
-##Output 
+Output 
 
 ![AI Chatbot Screenshot](./Screenshot%20(126).png)
 
@@ -18,15 +18,25 @@ An intelligent, agent-based chatbot designed to generate interactive responses b
 
 agentic-chatbot/
 ├── ai_agent.py # Core reasoning and response logic
+
 ├── backend.py # Backend server logic
+
 ├── frontend.py # User interface script
+
 ├── faq_data.py # FAQ dataset
+
 ├── pdf_tool.py # PDF extraction and processing
+
 ├── requirements.txt # Dependencies
+
 ├── README.md # Project documentation
+
 ├── .gitignore # Git ignore rules
+
 ├── venv/ # Python virtual environment
+
 ├── pdfs/ # Directory for PDF documents
+
 └── pycache/ # Compiled cache files
 
 
