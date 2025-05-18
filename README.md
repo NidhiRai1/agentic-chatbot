@@ -1,16 +1,20 @@
-# Agentic Chatbot
+# 🤖 LangGraph AI Chatbot Agent
 
-An intelligent, agent-based chatbot designed to generate interactive responses by leveraging both predefined FAQs and dynamic PDF document analysis. Built with Python, this project integrates multiple components to deliver context-aware and informative interactions.
+A modular Conversational AI system powered by LangGraph and LangChain that supports advanced ReAct agents, OCR-based image inputs, web and academic search tools, and PDF report generation. The backend is built using FastAPI, and the frontend is powered by Streamlit.
 
 ## Features
 
-- **Agent-Based Architecture**: Modular design with specialized agents.
-- **FAQ Integration**: Responds to predefined frequently asked questions.
-- **PDF Analysis**: Extracts insights from uploaded PDF documents.
-- **Interactive Frontend**: Simple interface for user interaction.
-- **Backend Logic**: Coordinates agents and handles requests efficiently.
+- ReAct Agent with LangGraph for reasoning and tool-use
+- Supports both **Groq** and **OpenAI** LLM providers
+- Web Search with **Tavily**
+- Academic Paper Search with **arXiv**
+- Optional **PDF generation** of AI responses
+- OCR: Extract text from uploaded images and use it in queries
+- Session memory with chat history
+- FAQ Fallback for predefined queries
+- Streamlit UI for interactive use
 
-## Project Structure
+## Architecture
 
 agentic-chatbot/
 ├── ai_agent.py # Core reasoning and response logic
