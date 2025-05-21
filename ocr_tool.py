@@ -1,5 +1,5 @@
-import pytesseract
-from PIL import Image
+import pytesseract    # Python wrapper for Google's Tesseract OCR engine.
+from PIL import Image  # Opens and processes image files.
 import os
 
 # If needed, point pytesseract to the installed binary
